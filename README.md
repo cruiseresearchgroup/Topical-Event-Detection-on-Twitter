@@ -10,14 +10,14 @@ You can find the [paper](https://github.com/cruiseresearchgroup/Topical-Event-De
 
 Alternative link: https://link.springer.com/chapter/10.1007/978-3-319-46922-5_20
 
-# Contents of the repository
+## Contents of the repository
 This repository contains resources used and described in the paper.
 
 The repository is structured as follows:
 
 - `data/`: Dataset used for this paper. 
 
-# Citation
+## Citation
 If you use the resources presented in this repository, please cite (using the following BibTeX entry):
 ```
 @inproceedings{cui2016topical,
