@@ -7,6 +7,7 @@ This repository contains resources developed within the following paper:
 	In Australasian Database Conference (pp. 257-268). Springer, Cham.
   
 You can find the [paper](https://github.com/cruiseresearchgroup/Topical-Event-Detection-on-Twitter/blob/master/Cui-2016-Topical_Event_Detection_on_Twitter.pdf) in this repository. 
+
 Alternative link: https://link.springer.com/chapter/10.1007/978-3-319-46922-5_20
 
 # Contents of the repository
